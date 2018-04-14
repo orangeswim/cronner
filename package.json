@@ -1,0 +1,12 @@
+{
+  "name": "cronner",
+  "version": "0.0.1",
+  "description": "Javascript API for finding out exact time, which matches cron time pattern from given point of time.",
+  "main": "src/cronner",
+  "author": {
+  	"name": "Tauri Toompalu",
+    "email": "tauri.toompalu@gmail.com",
+    "url": "http://nevity.com/"
+  },
+  "license": "ISC"
+}
